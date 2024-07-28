@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @llanesleonardo
-- 👀 I’m interested in ... Programming Lean Apps
-- 🌱 I’m currently learning ... FullStack Development
-- 💞️ I’m looking to collaborate on ... Business Processes automation
-- 📫 How to reach me ... llanesleonardo@gmail.com
+- 👀 I’m interested in programming web apps
+- 🌱 I’m currently learning technologies such as (JS, NODEJS, REACTJS, SQL AND CLOUD COMPUTING) - FullStack Development
+- 📫 How to reach me llanesleonardo@gmail.com
 
 <!---
 llanesleonardo/llanesleonardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
